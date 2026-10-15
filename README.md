@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=EB5424&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Singh;Software+Engineer+%40+Auth0+by+Okta;I+build+open-source+identity+SDKs;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=EB5424&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Singh;Senior+Software+Engineer+%40+Auth0+by+Okta;I+build+open-source+identity+SDKs;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js" alt="Typing intro" />
 
 <p>
   <a href="mailto:amitsingh05667@gmail.com"><img src="https://img.shields.io/badge/Email-amitsingh05667%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -19,7 +19,7 @@
 
 ### 🙋‍♂️ About Me
 
-I'm a software engineer at **[Auth0 by Okta](https://auth0.com)**. I build and maintain the open-source SDKs that developers use to add login, sign-up, and multi-factor authentication to their apps.
+I'm a Senior Software Engineer at **[Auth0 by Okta](https://auth0.com)**. I build and maintain the open-source SDKs that developers use to add login, sign-up, and multi-factor authentication to their apps.
 
 - 🔐 I work on identity and security: **OAuth 2.0, OpenID Connect, Passkeys / WebAuthn, and MFA**
 - 🧩 I'm a core contributor to the **Auth0 ACUL SDKs**, which let developers build fully custom login screens
